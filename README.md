@@ -7,4 +7,4 @@ This zone is an experimental Area with
 - How To's
 - Test and Validation Projects
 
-For `2Gore`, my personal _`Game Development Area`_.
+For `2Gore`, my personal _`Game Development Area`_, Projects, and Games.
