@@ -1,10 +1,13 @@
-# `2Gore` Zone
+# `2Gore electrifier`: _`Game Development Area`_
 
 This zone is an experimental Area with
-
-- Lost & Founds
+- Projects
+- Games
+- 
 - Snippets
 - How To's
+- Lost & Founds
+- 
 - Test and Validation Projects
 
-For `2Gore`, my personal _`Game Development Area`_, Projects, and Games.
+`2Gore Game Development Area`: Projects, Games, HowTos and more to come
